@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Sep 05 00:40:50 IST 2023
+org.eclipse.jst.jee.server\:Layer3ArchitectureMydemo=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\Layer3ArchitectureMydemo
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\Layer3ArchitectureMydemo\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:OnlineShopping_CaseStudy2=D\:\\apache-tomcat-9.0.78-windows-x64\\apache-tomcat-9.0.78\\wtpwebapps\\OnlineShopping_CaseStudy2
